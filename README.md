@@ -18,3 +18,4 @@
 
 ### 05_Linear_regression_course2
 <img height = "400" src="https://github.com/cosmot0/ai2019spring/blob/master/ss/05.png"/>
+* 오차 줄임
