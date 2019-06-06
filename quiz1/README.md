@@ -1,1 +1,1 @@
-# mid term team quiz
+# mid-term team quiz
